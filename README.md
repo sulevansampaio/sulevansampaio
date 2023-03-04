@@ -1,14 +1,14 @@
 # Olá! Me chamo Sulevan 🤗
 
 - 💻 Trabalhando em Tahto - Analista I
-- 🎩 Formado em Análise e Desenvolvimento de Sistemas
-- 📚 Cursando MBA em Big Data e Inteligência Competitiva
+- 🎩 Formado em Análise e Desenvolvimento de Sistemas 
+- 📚 Cursando MBA em Big Data e Inteligência Competitiva e Pós-graduação em Projetos de Aplicativos Móveis Multiplataformas
 - 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/sulevansampaio">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sulevansampaio&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulevansampaio&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=sulevansampaio&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulevansampaio&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 
@@ -26,6 +26,5 @@
   <a href="https://web.whatsapp.com/send?phone=5567984741075""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"</a>
   
   
-  <!-- ![Snake animation](https://github.com/sulevansampaio/blob/output/github-contribution-grid-snake.svg)-->
   ![Snake animation](https://github.com/sulevansampaio/sulevansampaio/blob/output/github-contribution-grid-snake.svg)
 </div>
