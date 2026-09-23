@@ -15,7 +15,7 @@
 
 - 🌱 Estudando sobre **IA, arquitetura de software**
 
-- 👨‍💻 All of my projects are available at [https://sulevansampaio.eisu.com.br/](https://sulevansampaio.eisu.com.br/)
+- 👨‍💻 Minha webpage [https://sulevansampaio.eisu.com.br/](https://sulevansampaio.eisu.com.br/)
 
 - 💬 Sobre mim **Desenvolvedor Back-end formado em Análise e Desenvolvimento de Sistemas. Especialista em ecossistema .NET**
 
